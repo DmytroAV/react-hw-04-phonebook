@@ -1,0 +1,30 @@
+[
+  {
+    "id": "id-1",
+    "firstName": "Rosie",
+    "lastName": "Simpson",
+    "email": "simpson@gmail.com",
+    "mobilePhone": "+38 (043) 459-12-56"
+  },
+  {
+    "id": "id-2",
+    "firstName": "Hermione",
+    "lastName": "Kline",
+    "email": "kline@gmail.com",
+    "mobilePhone": "+38 (048) 228-76-65"
+  },
+  {
+    "id": "id-3",
+    "firstName": "Eden",
+    "lastName": "Clements",
+    "email": "clements@gmail.com",
+    "mobilePhone": "+38 (094) 645-17-79"
+  },
+  {
+    "id": "id-4",
+    "firstName": "Annie",
+    "lastName": "Copeland",
+    "email": "copeland@gmail.com",
+    "mobilePhone": "+38 (084) 227-91-26"
+  }
+]
