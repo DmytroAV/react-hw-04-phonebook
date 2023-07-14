@@ -2,6 +2,7 @@
   "name": "react-hw-04-phonebook",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://DmytroAV.github.io/react-hw-04-phonebook",
   "dependencies": {
     "@emotion/is-prop-valid": "^1.2.1",
     "@hookform/resolvers": "^3.1.1",
